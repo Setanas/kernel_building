@@ -50,7 +50,6 @@ sudo cp -r 4.19.122-v7l+ {PATH_TO_ROOT_PARTITION}/lib/modules/
 
 Old kernel:
 
-Raspbian booting inside Qemu
 ![Raspberry pi before](https://github.com/Setanas/kernel_building/blob/master/pictures/before.jpg)
 
 New kernel (after installing):
